@@ -1,6 +1,6 @@
 ---
 title: "10. Buddha Nature: The View That Transforms Practice"
-date: "December 15, 2025"
+date: "November 24, 2025"
 excerpt: "Discovering the innermost nature of mind and how bringing the right view and motivation transforms meditation practice and daily life."
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "9. Shamatha Without Support: Meditation in Conversation"
-date: "December 8, 2025"
+date: "November 18, 2025"
 excerpt: "Exploring meditation without an object and bringing mindfulness, awareness, and spaciousness into the art of conversation."
 ---
 

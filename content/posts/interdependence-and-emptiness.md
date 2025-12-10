@@ -1,6 +1,6 @@
 ---
 title: "11. Interdependence and Emptiness: Seeing Reality as It Is"
-date: "December 22, 2025"
+date: "November 30, 2025"
 excerpt: "From calm abiding to clear seeing—discovering the interdependent nature of reality and how this insight transforms our actions and relationships."
 ---
 

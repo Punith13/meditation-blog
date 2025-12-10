@@ -1,6 +1,6 @@
 ---
 title: "8. Meditation in Action: Bringing Practice into Daily Life"
-date: "December 1, 2025"
+date: "November 11, 2025"
 excerpt: "Understanding the fundamental human pursuit of happiness, the nature of mind, and how to carry meditation practice into everyday life."
 ---
 
